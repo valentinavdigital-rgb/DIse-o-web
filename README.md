@@ -14,7 +14,8 @@
 
   <section>
     <h2>Sobre mí</h2>
-    <p>Soy diseñadora y programadora web con pasión por crear interfaces modernas, minimalistas y atractivas. Me encanta transformar ideas en páginas web funcionales, rápidas y con estilo único. Busco oportunidades para colaborar en proyectos creativos y desafiantes.</p>
+    <p>Soy diseñadora y programadora web con pasión por crear interfaces modernas, minimalistas y atractivas. Me encanta transformar ideas en páginas web funcionales, rápidas y con estilo único. Busco oportunidades para colaborar en proyectos creativos y desafiantes
+      Me interesa trabajar con personas que quieren mejorar sus negocios, haciendo una pagina web para el crecimiento de su emprendimiento y su exito comprobado.</p>
   </section>
 
   <section>
