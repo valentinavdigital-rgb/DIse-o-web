@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio - Diseñadora Web</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: #0f0f0f;
+      color: #fff;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(90deg, #ff006e, #8338ec, #3a86ff);
+      padding: 3rem 2rem;
+      text-align: center;
+      color: #fff;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+    section {
+      padding: 3rem 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #ffbe0b;
+      margin-bottom: 1rem;
+      font-size: 2rem;
+      text-align: center;
+    }
+    .skills, .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+    }
+    .card {
+      background: #1f1f1f;
+      padding: 1.5rem;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+      transition: transform 0.3s ease;
+    }
+    .card:hover {
+      transform: scale(1.05);
+    }
+    .btn {
+      display: inline-block;
+      padding: 0.8rem 1.5rem;
+      margin-top: 2rem;
+      font-size: 1.1rem;
+      border-radius: 30px;
+      background: linear-gradient(90deg, #ff006e, #8338ec);
+      color: #fff;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: linear-gradient(90deg, #8338ec, #3a86ff);
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      background: #111;
+      font-size: 0.9rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hola, soy Vale ✨</h1>
+    <p>Diseñadora Web & Programadora Front-End</p>
+  </header>
+
+  <section>
+    <h2>Sobre mí</h2>
+    <p>Soy diseñadora y programadora web con pasión por crear interfaces modernas, minimalistas y atractivas. Me encanta transformar ideas en páginas web funcionales, rápidas y con estilo único. Busco oportunidades para colaborar en proyectos creativos y desafiantes.</p>
+  </section>
+
+  <section>
+    <h2>Habilidades</h2>
+    <div class="skills">
+      <div class="card">💻 HTML, CSS, JavaScript</div>
+      <div class="card">🎨 Diseño UI/UX Minimalista</div>
+      <div class="card">⚡ Responsive Design</div>
+      <div class="card">🔗 Git & Control de versiones</div>
+      <div class="card">🌐 SEO y optimización web</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Proyectos</h2>
+    <div class="projects">
+      <div class="card">
+        <h3>Portfolio Personal</h3>
+        <p>Un sitio web moderno para mostrar mis proyectos y habilidades.</p>
+      </div>
+      <div class="card">
+        <h3>Tienda Online</h3>
+        <p>Diseño de e-commerce con carrito de compras y estilo minimalista.</p>
+      </div>
+      <div class="card">
+        <h3>Blog Creativo</h3>
+        <p>Blog responsivo con artículos y secciones interactivas.</p>
+      </div>
+    </div>
+  </section>
+
+  <section style="text-align:center;">
+    <a href="mailto:vale.diaz@example.com" class="btn">📩 Contáctame</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Vale Díaz - Diseñadora & Programadora Web</p>
+  </footer>
+</body>
+</html>
