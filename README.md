@@ -51,7 +51,6 @@
 <a href="mailto:tuusuario@gmail.com?subject=Contacto%20desde%20tu%20portfolio" class="btn">
   📩 Contáctame
 </a>
-
   </section>
 
   <footer>
