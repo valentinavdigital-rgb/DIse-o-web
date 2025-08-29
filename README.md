@@ -48,10 +48,12 @@
   </section>
 
   <section class="contacto">
-<a href="mailto:valentinavdigital@gmail.com?subject=Contacto%20desde%20tu%20portfolio" class="btn">
-  📩 Contáctame
-</a>
-  </section>
+  <a href="https://wa.me/5492616813654?text=Hola%20Vale,%20quiero%20contactarte%20desde%20tu%20servicio web" 
+     class="btn" target="_blank">
+    💬 Contáctame por WhatsApp
+  </a>
+</section>
+
 
   <footer>
     <p>© 2025 Vale Díaz - Diseñadora & Programadora Web</p>
