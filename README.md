@@ -48,7 +48,7 @@
   </section>
 
   <section class="contacto">
-    <a href="mailto:vale.diaz@example.com" class="btn">📩 Contáctame</a>
+    <a href="valentinavdigital@gmail.com" class="btn">📩 Contáctame</a>
   </section>
 
   <footer>
